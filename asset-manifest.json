@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/move-container-app/static/css/main.f28b6db3.chunk.css",
-    "main.js": "/move-container-app/static/js/main.1f49e1b6.chunk.js",
-    "main.js.map": "/move-container-app/static/js/main.1f49e1b6.chunk.js.map",
-    "runtime-main.js": "/move-container-app/static/js/runtime-main.ee69be53.js",
-    "runtime-main.js.map": "/move-container-app/static/js/runtime-main.ee69be53.js.map",
-    "static/js/2.a0b55bd4.chunk.js": "/move-container-app/static/js/2.a0b55bd4.chunk.js",
-    "static/js/2.a0b55bd4.chunk.js.map": "/move-container-app/static/js/2.a0b55bd4.chunk.js.map",
-    "index.html": "/move-container-app/index.html",
-    "precache-manifest.9e7226fccb84ebd2296c17ef5440653b.js": "/move-container-app/precache-manifest.9e7226fccb84ebd2296c17ef5440653b.js",
-    "service-worker.js": "/move-container-app/service-worker.js",
-    "static/css/main.f28b6db3.chunk.css.map": "/move-container-app/static/css/main.f28b6db3.chunk.css.map",
-    "static/js/2.a0b55bd4.chunk.js.LICENSE": "/move-container-app/static/js/2.a0b55bd4.chunk.js.LICENSE"
+    "main.css": "/move-container/static/css/main.f28b6db3.chunk.css",
+    "main.js": "/move-container/static/js/main.33c1bf4c.chunk.js",
+    "main.js.map": "/move-container/static/js/main.33c1bf4c.chunk.js.map",
+    "runtime-main.js": "/move-container/static/js/runtime-main.6db66b33.js",
+    "runtime-main.js.map": "/move-container/static/js/runtime-main.6db66b33.js.map",
+    "static/js/2.a0b55bd4.chunk.js": "/move-container/static/js/2.a0b55bd4.chunk.js",
+    "static/js/2.a0b55bd4.chunk.js.map": "/move-container/static/js/2.a0b55bd4.chunk.js.map",
+    "index.html": "/move-container/index.html",
+    "precache-manifest.762670308347348748e03f6a9978121f.js": "/move-container/precache-manifest.762670308347348748e03f6a9978121f.js",
+    "service-worker.js": "/move-container/service-worker.js",
+    "static/css/main.f28b6db3.chunk.css.map": "/move-container/static/css/main.f28b6db3.chunk.css.map",
+    "static/js/2.a0b55bd4.chunk.js.LICENSE": "/move-container/static/js/2.a0b55bd4.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee69be53.js",
+    "static/js/runtime-main.6db66b33.js",
     "static/js/2.a0b55bd4.chunk.js",
     "static/css/main.f28b6db3.chunk.css",
-    "static/js/main.1f49e1b6.chunk.js"
+    "static/js/main.33c1bf4c.chunk.js"
   ]
 }
